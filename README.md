@@ -1,5 +1,5 @@
 
-# İstanbul Trafik Yoğunluğu Tahmini (Deep Learning)
+# İstanbul Trafik Yoğunluğu Tahmini
 
 Bu proje, İstanbul'un karmaşık trafik ağındaki hız değişimlerini öğrenerek gelecekteki trafik yoğunluğunu tahmin eden gelişmiş bir **Derin Öğrenme (Deep Learning)** projesidir. İBB Açık Veri Portalı'ndan alınan gerçek zamanlı sensör verileri kullanılarak, trafik akışı **Zamansal (Temporal)** ve **Mekansal (Spatial)** boyutlarda analiz edilmiştir.
 
