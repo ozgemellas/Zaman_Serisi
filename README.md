@@ -67,4 +67,3 @@ python istanbul_traffic_prediction.py
 
 ## Yazar
 **Özge Mellaş**  
-GitHub: [ozgemellas](https://github.com/ozgemellas)
