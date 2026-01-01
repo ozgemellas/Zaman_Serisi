@@ -7,3 +7,4 @@ __pycache__/
 *.jpeg
 *.html
 !traffic_network_map_renkli.html
+!image.png
